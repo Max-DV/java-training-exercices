@@ -20,6 +20,7 @@ public class IDeckGeneratorTest extends PokerTest{
 	@Before
 	public void setUp() throws Exception {
 		generator = new DeckGenerator();
+
 	}
 
 	@After
