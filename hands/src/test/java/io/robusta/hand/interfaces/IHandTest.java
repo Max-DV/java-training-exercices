@@ -1,3 +1,4 @@
+
 package io.robusta.hand.interfaces;
 
 import static org.junit.Assert.*;
